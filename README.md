@@ -15,5 +15,4 @@ The following results were obtained:
         spam       0.75      1.00      0.86       110
 
     accuracy                           0.97      1115
-   macro avg       0.87      0.98      0.92      1115
-weighted avg       0.98      0.97      0.97      1115
+   
